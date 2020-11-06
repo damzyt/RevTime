@@ -349,12 +349,15 @@ body {
     width: calc(100% - 105px);
   }
   .hero__heading {
-    font-size: 1.25rem;
+    font-size: 7rem;
     text-transform: uppercase;
   }
   .hero__subtext {
-    font-size: .8rem;
+    font-size: .9rem;
     width: 80%;
+  }
+  .hero__btn {
+    margin-top: 50px;
   }
 }
 
@@ -375,6 +378,10 @@ body {
   }
   .search-box__icon {
     right: 25px;
+  }
+  .hero__heading {
+    font-size: 5.5rem;
+    text-transform: uppercase;
   }
 }
 
@@ -398,6 +405,16 @@ body {
   }
   .nav__logo {
     font-size: 1.8rem;
+  }
+  .hero__heading {
+    font-size: 4rem;
+    text-transform: uppercase;
+  }
+  .hero__subtext {
+    font-size: 0.75rem;
+  }
+  .hero__btn {
+    margin-top: 25px;
   }
 }
 
